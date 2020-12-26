@@ -25,5 +25,5 @@
 <img src="./public/images/desktop.png">
 
 
-<p>Feito por <a href='https://github.com/ElizabetePluGgui' target='blank'>Elizabete de Sousa Fabri</a></p>
+<p>Feito por <a href='https://github.com/ElizabetePluGgui' target='blank'>Elizabete de Sousa Fabri 💜💜💜</a></p>
 
