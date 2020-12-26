@@ -1,4 +1,4 @@
-<p align='center'><img width='250' src="./.github/logo.svg"></p>
+<p align='center'><img width='250' src="./public/images/logo.svg"></p>
 <h1 align='center'>Contador- Desafio devchallenge </h1>
 <p align='center'>
 <img src="https://img.shields.io/github/languages/code-size/Diegooliveyra/Contador-devchallenge">
