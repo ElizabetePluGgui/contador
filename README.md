@@ -24,7 +24,6 @@
 <img src="./public/images/desktop-inicio.png">
 <img src="./public/images/desktop.png">
 
-<h3>📝 Licença</h3>
-<p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
+
 <p>Feito por <a href='https://github.com/ElizabetePluGgui' target='blank'>Elizabete de Sousa Fabri</a></p>
 
