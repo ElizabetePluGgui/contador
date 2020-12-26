@@ -1,75 +1,30 @@
-<p align="center">
-  <a href="http://www.freepik.com">
-    <img src="https://i.ibb.co/RzmJtXK/mockuper-5.png" alt="Logo" width="350" height="250">
-  </a>
-
-  <h3 align="center">Contador</h3>
-
-  <p align="center">
-    Aplicação para contar dias, horas, minutos e segundos
-       <br />
-    <br />
-    <a href="https://github.com/Lorenalgm/contador">Desafio</a>
-    ·
-    <a href="https://www.linkedin.com/in/lorenagmontes/">Contato</a>
-  </p>
+<p align='center'><img width='250' src="./.github/logo.svg"></p>
+<h1 align='center'>Contador- Desafio devchallenge </h1>
+<p align='center'>
+<img src="https://img.shields.io/github/languages/code-size/Diegooliveyra/Contador-devchallenge">
+<img src="https://img.shields.io/github/last-commit/Diegooliveyra/Contador-devchallenge">
+<img src="https://img.shields.io/github/license/Diegooliveyra/Contador-devchallenge">
 </p>
 
-## Índice
+<h3>🔖 Sobre o desafio</h3>
+<p>Seu desafio é criar um contador (com dias, horas, minutos e segundos), a partir de uma data definida pelo usuário!<p>
 
-* [Devchallenge](#devchallenge) 
-* [Desafio](#desafio)
-* [Techs](#techs)
-* [Como começar](#como-começar)
-* [Dicas](#dicas)
-  * [Cores](#cores)
-  * [Modelo](#modelo)  
-  * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
+<h3>🚀 Tecnologias</h3>
+<ul>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Javascript</li>
+</ul>
 
-# Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador!
+</br>
+<h3 align="center"><a href="https://devchallenge.now.sh/challenges/5ed6d70709347b1dbf411b37/details" target="_blank">Link do Desafio</a></h3>
+</br>
 
-# Desafio
-Seu desafio é criar um contador (com dias, horas, minutos e segundos), a partir de uma data definida pelo usuário! O modelo final está disponível na pasta "design"
+<h3>🖼 Layout</h3>
+<img src="./public/images/desktop-inicio.png">
+<img src="./public/images/mobile.png">
 
-
-
-<img src="https://i.ibb.co/HhNTTzB/mockuper-6.png" width="450" height="350">
-<img src="https://i.ibb.co/9cMFW5s/mockuper-7.png" width="450" height="350">
-
-# Techs: 
-Javascript<br>
-HTML<br>
-CSS<br>
-Linguagem de sua preferência :)
-
-# Como começar:
-1 - Use esse template ou clone esse repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
-
-# Requisitos:
-- Sua aplicação deverá conter uma tela inicial, onde deverá perguntar ao usuário uma data<br>
-- Sua página deverá conter uma página com o contador (contendo dias, horas, minutos e segundos). A contagem deverá ser feita levando em consiração quantos dias faltam para chegar na data definida pelo usuário.
-- O botão "reiniciar" irá retornar o usuário para a tela inicial
-- Você poderá seguir o modelo da página, que está disponvel na página "design".
-
-# Dicas
-## Cores:
-Verde: #21EB00
-Cinza: #191A18
-
-## Modelo:
-O modelo está disponível na pasta `./design`<br>
-
-## Tipo de fonte:
-- Roboto.<br>
-Você pode utilizar do google fonts.
-
-# Compartilhe!
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
-
+<h3>📝 Licença</h3>
+<p>O projeto se encontra sob licença MIT. Para mais detalhes, acesse <a href='LICENSE'>license<a>.</p>
+<p>Criado com 💙 por <a href='https://github.com/Diegooliveyra/' target='blank'>Diego Oliveira</a></p>
 
