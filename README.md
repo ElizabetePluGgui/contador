@@ -13,7 +13,11 @@
 </br>
 
 <h3>🖼 Layout</h3>
-<img src="./public/images/contador.mp4">
+<p align="center">
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="./public/images/contador.mp4" alt="Intro">
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./public/images/desktop.png">
 
 <p>Feito por <a href='https://github.com/ElizabetePluGgui' target='blank'>Elizabete de Sousa Fabri 💜💜💜</a></p>
