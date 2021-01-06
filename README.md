@@ -15,7 +15,7 @@
 <h3>🖼 Layout</h3>
 <p align="center">
   <kbd>
-    <video width="250" style="border-radius: 5px" height="450" src="./public/images/contador.mp4" alt="Intro">
+    <video width="250" style="border-radius: 5px" height="450" src="./public/images/contador.mp4" alt="Intro"></video>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./public/images/desktop.png">
